@@ -19,6 +19,8 @@ I'm a passionate engineer focused on building high quality technical solutions f
 - 👯 I’m looking to collaborate on exciting projects in applying machine learning to areas such as Genomics, Networks and Finance.
 - 🤔 I’m looking for help with Graph Theory and Agent-Based Models.
 - 💬 Ask me about Python, C/C++, Wireless Communications and Machine Learning.
+- 📫 How to reach me: Email me at awab.asher@hotmail.com 
+- ⚡ Fun fact: I support Manchester United. I enjoy playing working out, playing cricket and football in my free time.
 # About Me
 I'm currently an independent Software Engineer/Consultant. My areas of interest range from Embedded Systems, Machine Learning, Full Stack Web Development, Cloud Computing, Wireless Communications, Signal Processing, Simulation Modelling, Mathematical Optimization and Control Systems. I believe in life-long learning, thus, I have committed myself to continously learn emerging technologies, new verticals and different domains of other fields.
 # Languages, Tools and Technologies
