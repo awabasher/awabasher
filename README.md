@@ -20,7 +20,7 @@ I'm a passionate engineer focused on building high quality technical solutions f
 - 🤔 I’m looking for help with Graph Theory and Agent-Based Models.
 - 💬 Ask me about Python, C/C++, Wireless Communications and Machine Learning.
 # About Me
-I'm currently an independent Software Engineer/Consultant. My areas of interest range from Embedded Systems, Machine Learning, Full Stack Web Development, Cloud Computing, Wireless Communications, Signal Processing, Simulation Modelling, Mathematical Optimization and Control Systems. I believe in life-long learning, thus, I have committed myself to continously learn emerging technologies and different domains of other fields.
+I'm currently an independent Software Engineer/Consultant. My areas of interest range from Embedded Systems, Machine Learning, Full Stack Web Development, Cloud Computing, Wireless Communications, Signal Processing, Simulation Modelling, Mathematical Optimization and Control Systems. I believe in life-long learning, thus, I have committed myself to continously learn emerging technologies, new verticals and different domains of other fields.
 # Languages, Tools and Technologies
 <div align="center">
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/183869554-ae3ce73a-b756-4cea-bb96-eadc96506102.png" alt="HTTP" title="HTTP" /></code>
