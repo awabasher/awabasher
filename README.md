@@ -13,16 +13,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm a passionate engineer focused on building high quality technical solutions for interesting projects.
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Satisfy&weight=600&size=25&pause=1000&color=2AEBBFB1&center=true&vCenter=true&width=435&height=60&lines=Software+Developer;Always+learning!" alt="Typing SVG" /></a></p>
+
+
 - 🔭 I’m currently working on implementing machine learning algorithms and building cloud-native solutions.
 - 🌱 I’m currently learning Game Theory, Machine Learning for Quantum Computing, Generative Models and MLOps.
 - 👯 I’m looking to collaborate on exciting projects in applying machine learning to areas such as Genomics, Networks and Finance.
 - 🤔 I’m looking for help with Graph Theory and Agent-Based Models.
 - 💬 Ask me about Python, C/C++, Wireless Communications and Machine Learning.
-- 📫 How to reach me: Email me at awab.asher@hotmail.com 
+- 📫 How to reach me: Ping me on Twitter!
 - ⚡ Fun fact: I worked on machine learning before it became cool.
 ## About Me
-I'm currently an independent Software Engineer/Consultant. My areas of interest range from Embedded Systems, Machine Learning, Full Stack Web Development, Cloud Computing, Wireless Communications, Signal Processing, Simulation Modelling, Mathematical Optimization and Control Systems. I believe in life-long learning, thus, I have committed myself to continously learn emerging technologies, new verticals and different domains of other fields.
+I'm currently an independent Software Developer. My areas of interest range from Embedded Systems, Machine Learning, Full Stack Web Development, Cloud Computing, Wireless Communications, Signal Processing, Simulation Modelling, Mathematical Optimization and Control Systems. I love tinkering with technology and making things work. I have worked on different projects involving cross-domain skills like application development, IoT, Machine Learning,  numerical analysis, and much more. I enjoy solving engineering problems and developing solutions to them using my knowledge and skills. I love adding new skills to my skillset.
+
+I believe in life-long learning, thus, I have committed myself to continously learn emerging technologies, new verticals and different domains of other fields.
+
+I love to explore new tech stack. I am a dedicated and motivated software developer with a deep passion for Machine Learning and Deep Learning. With my skills in programming, software development, and a desire to produce high-quality work, I am confident that I can make valuable contributions to meaningful and interesting projects. I am confident in my ability to continue producing high-quality software solutions.
 ## Languages, Tools and Technologies
 ### Languages:
 <code><img height="50" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python" /></code>
@@ -71,16 +77,20 @@ I'm currently an independent Software Engineer/Consultant. My areas of interest 
 ### Cloud:
 <code><img height="50" src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" alt="AWS" title="AWS" /></code>
 <code><img height="50" src="https://skillicons.dev/icons?i=gcp" alt="GCP" title="GCP" /></code>
-
+<code><img height="50" src="https://skillicons.dev/icons?i=firebase" alt="firebase" title="Firebase" /></code>
 
 
 ### Supporting Tools:
 <code><img height="50" src="https://user-images.githubusercontent.com/25181517/117364276-fc4eb280-aebd-11eb-92ba-8a6ef74b7313.png" alt="GitHub" title="GitHub" /></code>
 <code><img height="50" src="https://user-images.githubusercontent.com/25181517/117364277-fc4eb280-aebd-11eb-8769-a3583c6a2037.png" alt="Git" title="Git" /></code>
+<code><img height="50" src="https://skillicons.dev/icons?i=githubactions" alt="githubactions" title="Github Actions" /></code>
 <code><img height="50" src="https://user-images.githubusercontent.com/25181517/183869554-ae3ce73a-b756-4cea-bb96-eadc96506102.png" alt="HTTP" title="HTTP" /></code>
 <code><img height="50" src="https://skillicons.dev/icons?i=latex" alt="latex" title="Latex" /></code>
 <code><img height="50" src="https://skillicons.dev/icons?i=figma" alt="figma" title="Figma" /></code>
 <code><img height="50" src="https://skillicons.dev/icons?i=bash" alt="bash" title="Bash" /></code>
+<code><img height="50" src="https://skillicons.dev/icons?i=linux" alt="linux" title="Linux" /></code>
+
+
 
 
 
