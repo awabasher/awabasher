@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 
 
 - 🔭 I’m currently working on implementing machine learning algorithms and building cloud-native solutions.
-- 🌱 I’m currently learning Game Theory, Machine Learning for Quantum Computing, Generative Models and MLOps.
+- 🌱 I’m currently learning Generative Models and MLOps.
 - 👯 I’m looking to collaborate on exciting projects in applying machine learning to areas such as Genomics, Networks and Finance.
 - 🤔 I’m looking for help with Graph Theory and Agent-Based Models.
-- 💬 Ask me about Python, C/C++, Wireless Communications and Machine Learning.
+- 💬 Ask me about Python and Machine Learning.
 - 📫 How to reach me: Ping me on Twitter!
 - ⚡ Fun fact: I worked on machine learning before it became cool.
 ## About Me
