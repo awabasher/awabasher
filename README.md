@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Satisfy&weight=600&size=25&pause=1000&color=2AEBBFB1&center=true&vCenter=true&width=435&height=60&lines=Software+Developer;Always+learning!" alt="Typing SVG" /></a></p>
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Satisfy&weight=600&size=25&pause=1000&color=2AEBBFB1&center=true&vCenter=true&width=435&height=60&lines=Electrical+Engineering+Graduate;Always+learning!" alt="Typing SVG" /></a></p>
 
 
 - 🔭 I’m currently working on implementing machine learning algorithms and building cloud-native solutions.
