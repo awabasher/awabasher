@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 
 
 - 🔭 I’m currently a graduate student in Electrical Engineering.
-- 🌱 I’m currently learning Generative Models and MLOps.
-- 👯 I’m looking to collaborate on exciting projects in applying machine learning to areas such as Networks and Finance.
-- 🤔 I’m looking for help with Deep learning frameworks and Agent-Based Models.
+- 🌱 I’m currently learning Generative Models.
+- 👯 I’m looking to collaborate on exciting projects in applying machine learning.
+- 🤔 I’m looking for help with Reinforcement Learning and Agent-Based Models.
 - 💬 Ask me about Python.
-- 📫 How to reach me: Ping me on Twitter!
+- 📫 How to reach me: Email!
 - ⚡ Fun fact: I once spent an entire day debugging a single missing semicolon.
 ## About Me
 I'm currently a graduate student in EE. Previously, I completed my undergraduate Bachelor's degree in Electrical and Electronic Engineering from University of Bristol. My areas of interests is mostly in machine learning and wireless. I have explored other domains such as Embedded Systems, IoT, Full Stack Web Development, Cloud Computing, Signal Processing, Simulation Modelling, Mathematical Optimization and Control Systems through university coursework, online courses and self-learning. I love tinkering with technology and making things work. I have worked on different projects involving cross-domain skills. I enjoy solving engineering problems and developing solutions to them using my knowledge and skills. I love adding new skills to my skillset. 
