@@ -17,18 +17,13 @@ Here are some ideas to get you started:
 
 
 - 🔭 I’m currently a graduate student in Electrical Engineering.
-- 🌱 I’m currently learning Generative Models.
-- 👯 I’m looking to collaborate on exciting projects in applying machine learning.
-- 🤔 I’m looking for help with Reinforcement Learning and Agent-Based Models.
-- 💬 Ask me about Python.
+- 🌱 I’m currently learning more about LLMs and Generative AI.
+- 🤔 I’m looking for help with Reinforcement Learning.
 - 📫 How to reach me: Email!
-- ⚡ Fun fact: I once spent an entire day debugging a single missing semicolon.
 ## About Me
-I'm currently a graduate student in EE. Previously, I completed my undergraduate Bachelor's degree in Electrical and Electronic Engineering from University of Bristol. My areas of interests is mostly in machine learning and wireless. I have explored other domains such as Embedded Systems, IoT, Full Stack Web Development, Cloud Computing, Signal Processing, Simulation Modelling, Mathematical Optimization and Control Systems through university coursework, online courses and self-learning. I love tinkering with technology and making things work. I have worked on different projects involving cross-domain skills. I enjoy solving engineering problems and developing solutions to them using my knowledge and skills. I love adding new skills to my skillset. 
+I'm currently a graduate student in EE. Previously, I completed my undergraduate Bachelor's degree in Electrical and Electronic Engineering. I enjoy solving engineering problems and developing solutions using my knowledge and skills. I love adding new skills to my skillset. 
 
-I believe in life-long learning, thus, I have committed myself to continously learn emerging technologies, new verticals and different domains of other fields.
-
-I love to explore new tech stack. I am a dedicated and motivated engineer with a deep passion for Machine Learning and Deep Learning. With my skills in programming, software development, and a desire to produce high-quality work, I am confident that I can make valuable contributions to meaningful and interesting projects. I am confident in my ability to continue producing high-quality software solutions.
+I love to explore new tech stack. I like learning about emerging technologies, new verticals and different domains of adjacent fields.
 ## Languages, Tools and Technologies
 ### Languages:
 <code><img height="50" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python" /></code>
