@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 I'm currently a graduate student in EE. Previously, I completed my undergraduate Bachelor's degree in Electrical and Electronic Engineering. I enjoy solving engineering problems and developing solutions using my knowledge and skills. I love adding new skills to my skillset. 
 
 I love to explore new tech stack. I like learning about emerging technologies, new verticals and different domains of adjacent fields.
+<!--
 ## Languages, Tools and Technologies
 ### Languages:
 <code><img height="50" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python" /></code>
@@ -84,6 +85,7 @@ I love to explore new tech stack. I like learning about emerging technologies, n
 <code><img height="50" src="https://skillicons.dev/icons?i=figma" alt="figma" title="Figma" /></code>
 <code><img height="50" src="https://skillicons.dev/icons?i=bash" alt="bash" title="Bash" /></code>
 <code><img height="50" src="https://skillicons.dev/icons?i=linux" alt="linux" title="Linux" /></code>
+-->
 
 
 
